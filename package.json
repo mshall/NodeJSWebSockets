@@ -1,0 +1,32 @@
+{
+  "name": "nodejswebsockets",
+  "version": "1.0.0",
+  "description": "This project is about a showcase of NodeJS + Socket io to use websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshall/NodeJSWebSockets.git"
+  },
+  "keywords": [
+    "Websockets",
+    "NodeJS",
+    "Socket",
+    "IO"
+  ],
+  "author": "Mohamed S. El-Shall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshall/NodeJSWebSockets/issues"
+  },
+  "homepage": "https://github.com/mshall/NodeJSWebSockets#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
